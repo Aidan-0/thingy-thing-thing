@@ -6,6 +6,6 @@ class Test{
     System.out.println("Thing(R)");
     System.out.println("If this isn't verified");
     System.out.println("VERIFY");
-    System.out.println("Heck yeah now we're verified"); 
+    System.out.println("Heck yeah now we're verified"); //But is it?
   }
 }
