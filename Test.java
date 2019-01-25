@@ -5,5 +5,6 @@ class Test{
     System.out.println("This thing is copyrighted(C)");
     System.out.println("Thing(R)");
     System.out.println("If this isn't verified");
-   }
+    System.out.println("VERIFY");  
+  }
 }
