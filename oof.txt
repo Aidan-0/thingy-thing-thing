@@ -1,7 +1,3 @@
 Yeah haha
-<<<<<<< HEAD
-this is some text for your boi
-some more
-=======
-this is some text for your boi
->>>>>>> b4f45865b9849b417ad4f706c4a7a128ce5d8b48
+
+this is a testy testy boi
