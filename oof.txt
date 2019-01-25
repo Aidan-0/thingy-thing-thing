@@ -1,4 +1,9 @@
 Yeah haha
+<<<<<<< HEAD
 this is some text for your boi
 some more
 text goes here
+=======
+
+this is a testy testy boi
+>>>>>>> 8564b06b29f33672126faf088af9367d5b625d7e
