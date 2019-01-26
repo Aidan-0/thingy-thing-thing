@@ -9,6 +9,11 @@ class Test{
     System.out.println("VERIFY");
     System.out.println("Heck yeah now we're verified"); //But is it?
     //doot doot
+
+    System.out.println('H');
+    System.out.println('E');
+    System.out.println('L');
+    System.out.println('L');
     
   }
 }
